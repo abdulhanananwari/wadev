@@ -1,5 +1,6 @@
 /node_modules
-/Solumax
+/Solumax/PhpHelper
+/nbproject
 /public/storage
 /storage/*.key
 /vendor
